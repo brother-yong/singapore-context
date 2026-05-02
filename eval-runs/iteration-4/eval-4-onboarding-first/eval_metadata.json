@@ -1,0 +1,10 @@
+{
+  "eval_id": 4,
+  "eval_name": "eval-4-onboarding-first",
+  "prompt": "Hey! I want to chat in Singlish.",
+  "assertions": [
+    {"text": "Bot asks about vulgarity preference before responding in Singlish"},
+    {"text": "Bot does NOT launch straight into Singlish without asking"},
+    {"text": "Message is warm and casual, not robotic"}
+  ]
+}
