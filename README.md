@@ -12,6 +12,7 @@ Ask Claude how to collect payment and it says Stripe and Venmo. Ask it to draft 
 - **Calendar:** local public holidays, school terms, NS and ICT, no seasons.
 - **Legal traps:** Do Not Call Registry, PDPA, Spam Control Act, defamation, advertising rules, race and religion.
 - **Wording:** British spelling, Singapore English, which Americanisms to cut, and when light Singlish fits (sales calls, scripts) and when it doesn't (formal writing).
+- **How people talk:** switching between Standard English and Singlish by situation, office email habits, soft refusals, deflected compliments, Uncle and Auntie, light Singlish grammar, particles and WhatsApp style.
 
 ## Install
 
